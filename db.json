@@ -1,0 +1,12 @@
+{
+    "produts":[
+    {"id":1,"content":"New Products"},
+    {"id":1,"content":"New Products"},
+    {"id":1,"content":"New Products"}
+    ],
+    "users":[
+        {"id":1,"Name":"New Users"},
+        {"id":1,"Name":"New Users"},
+        {"id":1,"Name":"New Users"}
+        ]
+}
